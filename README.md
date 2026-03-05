@@ -4,6 +4,10 @@
         I analyzed the performance of Netflix India on YouTube — and the results 
         were fascinating! 🚀 With 11B+ total views, 137M+ likes, and 3M+ comments, the channel reflects
         massive audience engagement across India.
+
+  [Live Dashboard]:(https://app.powerbi.com/view?r=eyJrIjoiYjJjNDNhMTQtYTI3Ny00Y2ZmLTgzYWYtYmU0ODQzYTMxMDMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+      
 ## 🔍 Key Insights:
        ▪ Wednesday receives the highest number of views
        ▪ 66% of views come from short videos
@@ -23,4 +27,3 @@
        ✔ Promote trailers & behind-the-scenes content
       
       
-[Live Dashboard]:(https://app.powerbi.com/view?r=eyJrIjoiYjJjNDNhMTQtYTI3Ny00Y2ZmLTgzYWYtYmU0ODQzYTMxMDMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
